@@ -22,7 +22,7 @@
 
 경제학적 직관은  **이론만으로도, 데이터만으로도 완성되지 않습니다.** 이 저장소가 독자 여러분이 직접 데이터를 다루고, 관련 읽을거리를 통해 현실과 연결하며, 금융경제학을 “이해하는 눈”을 기르는 데 작은 도움이라도 되기를 바랍니다.
 
-책이나 코드에 있는 오류, 개선사항, 의견 등은 financialeconomicspython@gmail.com으로 보내 주세요. 고맙습니다. 
+📌 책이나 코드에 있는 오류, 개선사항, 의견 등은 financialeconomicspython@gmail.com으로 보내 주세요. 고맙습니다. 
 
 ---
 ## 저장소 구조
@@ -87,7 +87,7 @@ FinancialEconomicsPython/
 
 ### 방법 2: Google Colab으로 직접 옮기기
 
-1. https://www.youtube.com/shorts/Kx06X5u3jes
+💡 https://www.youtube.com/shorts/Kx06X5u3jes
 
 
 ### 방법 3: 파일을 다운로드하여 직접 실행하기 (고급 사용자)
@@ -98,8 +98,7 @@ FinancialEconomicsPython/
 2. Jupyter Notebook 또는 JupyterLab에서 `.ipynb` 파일을 실행합니다.
 3. `utils/` 폴더가 같은 디렉토리에 있어야 합니다.
 
-이 방법은 파이썬 환경 설정에 익숙한 독자에게만 권장됩니다.
-
+⚠️ 이 방법은 파이썬 환경 설정에 익숙한 독자에게만 권장됩니다.
 
 
 
