@@ -39,8 +39,8 @@ FinancialEconomicsPython/
 │   ├── plot_utils.py
 │   └── preamble_core.py
 │
-└── READINGS.md: 각 장의 논의와 관련된 뉴스 기사, 블로그 글, 보고서, 추가 읽을거리
-
+└── readings/
+    └── READINGS.md: 각 장의 논의와 관련된 뉴스 기사, 블로그 글, 보고서, 추가 읽을거리
 ```
 
 - **chapters/**  
