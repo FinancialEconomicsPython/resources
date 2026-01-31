@@ -299,6 +299,10 @@ https://x.com/JonSteinsson/status/1931150699322355912
 - 15장
 	- ["한은 "물가, 하반기 중 2.5% 하회…기조적 물가도 둔화"](https://news.einfomax.co.kr/news/articleView.html?idxno=4313745) (2024.6.18, 연합인포맥스)
 	- [[다산칼럼] "환율 급등이 또 다른 환율 급등 부를까"](https://www.hankyung.com/article/2025010225361) (2025.1.2, 한국경제신문)
+ 	- <a href="https://www.hankyung.com/article/2025010225361" target="_blank" rel="noopener noreferrer">
+[다산칼럼] "환율 급등이 또 다른 환율 급등 부를까"
+</a> (2025.1.2, 한국경제신문)
+
 	- ["고용안정에 대처하는 한국은행의 자세는?"](https://www.sisain.co.kr/news/articleView.html?idxno=47299) (2022.4.22 시사인)
 	- [“그들은 왜 ‘2’에 집착하나”…또 다른 물가 논쟁이 시작된 이유](https://www.mk.co.kr/news/economy/10818852) (2023.9.13 매일경제신문)
 
