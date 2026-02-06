@@ -63,6 +63,16 @@ https://biz.chosun.com/stock/stock_general/2025/04/08/7MGZO7TEMZASDBECR5EJVY5INQ
 
 https://www.mk.co.kr/news/economy/view/2018/10/632466/
 
+7장
+
+- "코스콤 '0.004秒의 차별'…주문체결 속도 빨라 훨씬 유리": https://www.hankyung.com/news/app/newsview.php?aid=2009090904681
+
+- "시세조종 의혹 초단타…8000조 시장 겨눈 이복현": https://www.edaily.co.kr/news/read?newsId=01203766638826272&mediaCodeNo=257&OutLnkChk=Y
+
+- "한국 개미는 왜 공매도에 분노하나...'금지' 둘러싼 쟁점": https://www.hani.co.kr/arti/economy/economy_general/1115465.html
+
+
+
 # 채권 관련 읽기 자료
 
 - 수익률 곡선으로 살펴보는 금리 전망
