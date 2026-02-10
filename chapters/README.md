@@ -1,10 +1,8 @@
-# Chapters – Open in Google Colab
-
-아래 노트북은 **Google Colab에서 바로 실행**할 수 있습니다.
+# 각 장에서 사용된 파이썬 코드
 
 ## Chapters (Google Colab)
 
-| Ch. |  | Colab |
+| Ch. | 제목  | Google Colab |
 |---:|---|---|
 | 01 | 개관: 화폐, 금융자산, 금융시장 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FinancialEconomicsPython/book/blob/main/chapters/FE01_Bubbles.ipynb) |
 | 02 | 소비 평탄화와 자산의 역할 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FinancialEconomicsPython/book/blob/main/chapters/FE02_RiskAversion.ipynb) |
