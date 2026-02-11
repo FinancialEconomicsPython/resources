@@ -55,10 +55,10 @@ FinancialEconomicsPython/book/
 - **chapters/**  
   해당 장에 등장하는 주요 그림과 분석을 재현하는 `.ipynb` 파일을 포함하고 있습니다.
 
-- **readings**  
+- **readings/**  
   각 장에서 다루는 주제와 관련된 신문 기사, 정책 보고서, 블로그 글, 참고할 만한 추가 읽을거리를 정리해 둔 폴더입니다.
 
-- **appendix_online**  
+- **appendix_online/**  
   책에서 다루지 않은 내용을 수록하고 있습니다.  
 
 - **utils/**  
