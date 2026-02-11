@@ -1,9 +1,27 @@
 
-- Python에 대한 다큐멘터리
-[The Story of Python and how it took over the world] (https://www.youtube.com/watch?v=GfH4QL4VqJ0&t=1s)
+아래 읽기 자료는 책의 목차를 따라 
+- I. 서론
+- II. 자산가격의 결정
+- III. 금융시장의 이해
+- IV. 중앙은행과 통화정책
+- V. 글로벌 금융위기와 그 이후의 통화정책
+으로 분류가 되어 있습니다. 
 
 
+---
+# 서론
+
+
+
+---
 # 주식 관련 읽기 자료
+
+## 1장
+
+## 2장
+
+
+
 
 - 서울대 이관휘 교수님 칼럼
 
