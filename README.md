@@ -77,6 +77,38 @@ FinancialEconomicsPython/book/
 2. 데이터 불러오기
 3. 그림 및 실증 분석 재현
 
+## 1단계: 실행 환경 준비 (⚠️ 반드시 먼저 수행)
+
+> ⚠️ **IMPORTANT — `utils/` 폴더 관련 공통 안내**
+
+이 저장소의 대부분의 Jupyter Notebook은  
+`utils/` 폴더에 포함된 **공통 함수**를 사용합니다  
+(그래프 작성, 데이터 처리, 날짜 처리 등).
+
+GitHub에서 노트북을 **Google Colab**으로 열 경우,
+
+- 노트북 파일(`.ipynb`) **만** Colab 환경으로 복사되며
+- **`utils/` 폴더는 자동으로 포함되지 않습니다.**
+
+따라서 노트북을 실행하기 전에,  
+아래의 **방법 A 또는 방법 B 중 하나를 반드시 선택**하여  
+`utils/` 폴더를 작업 환경에 포함시켜 주십시오.
+
+---
+
+### ✅ 방법 A (권장): 저장소 전체를 Colab 환경에 clone 하기
+
+가장 안정적인 방법이며,  
+모든 노트북이 **저자 의도대로 동일하게 동작**합니다.
+
+#### 1단계: 노트북 상단 셀에서 아래 코드 실행
+```python
+# FinancialEconomicsPython 저장소를 Colab 환경으로 복제
+!git clone https://github.com/FinancialEconomicsPython/book.git
+
+# 작업 디렉토리를 저장소 루트로 이동
+%cd book
+
 ### 방법 1: github의 `chapters/` 폴더에서 열기
 1. 이 GitHub 저장소에서 `chapters/` 폴더로 이동합니다.
 2. 실행하고 싶은 장의 `.ipynb` 파일을 클릭합니다.
