@@ -124,25 +124,26 @@ chapters/, readings/ 등 상대경로가 모두 정상 작동하며
 4. 작업 폴더에 utils/라는 이름의 폴더를 생성하고 파일을 업로드 합니다. 
 👉 최종적으로 Colab의 파일 구조가 아래와 같아야 합니다.
 
+```
 /content/
 ├── your_notebook.ipynb
 └── utils/
     ├── nber_utils.py
     ├── plot_utils.py
     └── preamble_core.py
-
+```
 
 --- 
 ## 2단계
 
-### 방법 1: github의 `chapters/` 폴더에서 열기
+### 🔹 방법 1: github의 `chapters/` 폴더에서 열기
 1. 이 GitHub 저장소에서 `chapters/` 폴더로 이동합니다.
 2. 실행하고 싶은 장의 `.ipynb` 파일을 클릭합니다.
 3. 해당 파일의 첫 부분에 나와 있는 설명대로 본인이 작업할 폴더 경로 BASE, 그리고 한국은행 ECOS API 인증키를 key_api_ECOS에 지정해 줍니다.
 4. 노트북의 셀(cell)을 **위에서부터 차례대로 실행**합니다.
 - 단축키: `Shift + Enter`
 
-### 방법 2: Google Colab에서 열기
+### 🔹 방법 2: Google Colab에서 열기
 1. Google Colab에 접속합니다.  
    https://colab.research.google.com
 2. 상단 메뉴에서  
@@ -153,7 +154,7 @@ chapters/, readings/ 등 상대경로가 모두 정상 작동하며
 5. 노트북의 셀(cell)을 **위에서부터 차례대로 실행**합니다.
 - 단축키: `Shift + Enter`
 
-### 방법 3: 파일을 다운로드하여 직접 실행하기 (고급 사용자)
+### 🔹 방법 3: 파일을 다운로드하여 직접 실행하기 (고급 사용자)
 
 로컬 환경에서 파이썬을 사용하는 독자는 다음과 같이 사용할 수 있습니다.
 
@@ -176,7 +177,7 @@ for research, teaching, and other purposes, provided that appropriate credit is 
 
 If you use or adapt this code, please cite the following book:
 
-Park, Ki Young (2025),  
+Park, Ki Young (2026),  
 *Financial Economics: Analyzing Financial Markets and Monetary Policy with Python*,  
 Sigma Press.  
 
@@ -195,7 +196,7 @@ GitHub repository: https://github.com/FinancialEconomicsPython/book
 본 저장소의 코드를 사용하거나 수정하여 활용한 경우,  
 다음 문헌을 반드시 인용해 주십시오.
 
-박기영 (2025),  
+박기영 (2026),  
 『금융경제학: 파이썬을 활용한 금융시장과 통화정책의 이해』,  
 시그마프레스.
 
