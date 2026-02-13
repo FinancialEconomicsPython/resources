@@ -12,6 +12,7 @@
 **V. 글로벌 금융위기와 그 이후의 통화정책**  
 
 으로 분류되어 있습니다.  
+
 시의성을 위해 날짜를 반드시 확인하고 읽기 바랍니다.
 
 ---
@@ -48,6 +49,7 @@
 ### 효율적 시장, 초단타매매, 공매도 
 
 - 강형 효율성에 대한 글: ["기업의 내부고발자에게 값비싼 보상을 아끼지 말자"](https://www.sisain.co.kr/news/articleView.html?idxno=45059) (이관휘의 자본시장 이야기, 시사IN 연재, 2021.7)
+- 약형 효율성에 대한 글: ["기술적 투자’, 과학인가 점성술인가"](https://www.sisain.co.kr/news/articleView.html?idxno=54115) (이관휘의 자본시장 이야기, 시사IN 연재, 2024.10)
 - 초단타매매를 다룬 '플래시 보이스' 책 소개: ["초단타매매 ‘완전 범죄의 탄생’"](http://slownews.kr/52777) (슬로우뉴스, 2016.9)  
 - 우리나라도 예외는 아닙니다. 이미 2009년에 이런 기사가 나왔습니다: ["코스콤 '0.004秒의 차별'...주문체결 속도 빨라 훨씬 유리"](https://www.hankyung.com/news/app/newsview.php?aid=2009090904681) (한국경제신문, 2009.9)  
 - ["시세조종 의혹 초단타"](https://www.edaily.co.kr/news/read?newsId=01203766638826272&mediaCodeNo=257) (이데일리, 2024.3)
@@ -89,8 +91,8 @@
 
 - ["정말 알고서 한국 은행산업에 손대는 것인가"](https://www.sisain.co.kr/news/articleView.html?idxno=50166) (이괸휘의 자본시장 이야기, 시사IN 연재, 2023.5)
 - ["바젤 I, II, III 차이점"](https://www.hankyung.com/article/2014102478931) (한국경제신문, 2014.10)  
-- ["코코본드와 바젤 III"](https://www.mk.co.kr/news/world/view/2016/04/299411/) (매일경제, 2016.4)  
-- ["부산저축은행 사태와 금융감독"](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201105102004135) (경향신문, 2011.5)  
+- ["코코본드발 경계령에 비상 걸린 유로존 은행"](https://www.mk.co.kr/news/world/view/2016/04/299411/) (매일경제, 2016.4)
+- [“예금보호 한도 올려 뱅크런 가능성 낮춰야”](https://www.khan.co.kr/article/202505180800021) (서울신문, 2018.10)
 - ["예금자 보호 한도 상향 논쟁"](https://www.khan.co.kr/article/202505180800021) (경향신문, 2025.5)  
 - AI가 금융시장에도 영향을 미치고 있습니다: ["The End of the Rip-Off Economy"](https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy) (The Economist, 2025.10)
 
@@ -106,31 +108,33 @@
 
 ### 전통적·비전통적 통화정책
 
+- 마이너스 금리의 부작용: ["年1~2% 특판 예금이라도 나오면 암스테르담 시내가 들썩"](https://www.mk.co.kr/news/economy/view/2019/09/782330/) (매일경제, 2019.9)  
+- ["‘디플레’ 고민 깊어진 연준, ‘2% 평균물가목표제’ 도입"](https://www.hani.co.kr/arti/economy/economy_general/965358.html) (한겨레신문, 2020.8)  
+- ["연준은 평균물가목표제를 폐기해야 한다"](https://www.ft.com/content/57e61776-bef9-4f8d-943e-d2678e921145) (Financial Times, 2021.11)
+- ["QT 종료 선언 이후 찾아온 불청객 SOFR"](http://www.economy21.co.kr/news/articleView.html?idxno=1015925) (이코노미21, 2025.11)
+- ["달러 통화 스와프, FIMA 그리고 킨들버거 함정"](http://www.economy21.co.kr/news/articleView.html?idxno=1015753) (이코노미21, 2025.9)
+- ["적정 지급준비금 수준은 얼마일까?"](http://www.economy21.co.kr/news/articleView.html?idxno=1015561) (이코노미21, 2025.8)
+
+### 우리나라의 통화정책 관련
+
+- 2024.12 불법계엄 직후 한은은 RP를 통해 유동성을 공급했습니다. RP 거래액의 승수배 만큼 통화량이 증가할까요?: ["RP매입을 통한 시장안정화 조치 이해하기"](https://www.bok.or.kr/portal/bbs/B0000347/view.do?menuNo=2&nttId=10088622) (한국은행 블로그, 2024.12)
+- ["최근 유동성 및 환율 상황에 대한 오해와 사실"](https://www.bok.or.kr/portal/bbs/B0000347/view.do?nttId=10095936&searchCnd=1&searchKwd=&depth2=201106&depth=201106&pageUnit=10&pageIndex=1&programType=newsData&menuNo=201106&oldMenuNo=201106) (한국은행 블로그, 2026.1) 
+- ["상설레포기구 사용량 급증 재조명"](http://www.economy21.co.kr/news/articleView.html?idxno=1015964) (이코노미21)
+- 집값을 물가지수에 반영해야 할까요?: ["한은 "주거비 반영 물가 2% 중반보다 높을 것…CPI의 한계""](https://news.einfomax.co.kr/news/articleView.html?idxno=4169097) (연합인포맥스)
+
+### 일본의 통화정책 관련
+
 - ["마이너스 금리 부작용"](https://www.mk.co.kr/news/economy/view/2019/09/782330/) (매일경제, 2019.9)  
-- ["평균물가목표제 도입"](https://www.hani.co.kr/arti/economy/economy_general/965358.html) (한겨레신문, 2020.8)  
-- ["The Fed must abandon average inflation targeting"](https://www.ft.com/content/57e61776-bef9-4f8d-943e-d2678e921145) (Financial Times)  
-
-### 지급준비·레포·정책금리 운영체계
-
-- ["한국은행의 RP와 통화량"](https://www.bok.or.kr/portal/bbs/B0000347/view.do?nttId=10088622) (한국은행)  
-- ["상설레포기구 사용량 급증 재조명"](http://www.economy21.co.kr/news/articleView.html?idxno=1015964) (이코노미21)  
-- ["연준 금리 인하와 단기국채 매입"](https://www.mt.co.kr/world/2025/12/11/2025121114560170526) (머니투데이, 2025.12.11)  
-
-### 일본은행과 장기 통화정책
-
-- ["마이너스 금리 부작용"](https://www.mk.co.kr/news/economy/view/2019/09/782330/) (매일경제, 2019.9)  
-- ["시라카와 전 BOJ 총재 인터뷰"](https://www.donga.com/news/Opinion/article/all/20241201/130544127/2) (동아일보, 2024.12)  
-- ["자산 버블과 일본은행의 책임"](http://www.fntimes.com/html/view.php?ud=202510101237426059c1c16452b0_18) (파이낸셜타임스, 2025.10)  
-
-### 물가와 주택가격
-
-- ["집값을 물가지수에 반영해야 할까?"](https://news.einfomax.co.kr/news/articleView.html?idxno=4169097) (연합인포맥스)
+- 시라카와 전 BOJ 총재 인터뷰: ["잠재성장률 하락, 돈 풀기로 해결 안돼… 생산성 경쟁력 향상만이 길"](https://www.donga.com/news/Opinion/article/all/20241201/130544127/2) (동아일보, 2024.12)  
+- ["자산 버블과 일본은행의 책임: 책임 전가 게임의 희생양?"](http://www.fntimes.com/html/view.php?ud=202510101237426059c1c16452b0_18) (김성민 칼럼, 파이낸셜타임스, 2025.10)
+- ["왜 중앙은행이 구조개혁을 이야기할까?"](https://www.bok.or.kr/portal/bbs/B0000347/view.do?nttId=10092920&searchCnd=1&searchKwd=&depth2=201106&depth=201106&pageUnit=10&pageIndex=1&programType=newsData&menuNo=201106&oldMenuNo=201106) (한국은행 블로그, 2025.8)
 
 ### 노동시장과 베버리지 곡선
 
 - ["최근 베버리지 곡선은 왜 급격하게 이동했는가?"](https://www.richmondfed.org/publications/research/economic_brief/2021/eb_21-36) (Richmond Fed Economic Brief, 2021.10)  
 - ["베버리지 곡선은 노동시장의 회복상에 대해 무엇을 말해 주는가?"](https://www.stlouisfed.org/on-the-economy/2022/jul/beveridge-curve-labor-market-recovery) (St. Louis Fed Blog, 2022.7)  
-- ["베버리지 곡선을 통한 노동시장 평가"](https://www.bok.or.kr/portal/bbs/B0000347/view.do?nttId=10072542) (한국은행, 2022.8)  
+- ["베버리지 곡선을 통한 노동시장 평가"](https://www.bok.or.kr/portal/bbs/B0000347/view.do?nttId=10072542) (한국은행, 2022.8)
+- ["베버리지 임계선 통과와 노동시장의 구조적 전환"](http://www.economy21.co.kr/news/articleView.html?idxno=1016196) (이코노미21, 2026.1)
 
 </details>
 
