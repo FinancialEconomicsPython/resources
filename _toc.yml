@@ -1,5 +1,5 @@
 format: jb-book
-root: intro
+root: intro.md
 chapters:
-  - file: setup
-  - file: license
+  - file: setup.md
+  - file: license.md
