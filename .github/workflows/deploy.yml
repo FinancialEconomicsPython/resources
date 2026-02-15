@@ -34,7 +34,7 @@ jobs:
     - name: Build book
       run: |
         # 명시적으로 _config.yml이 있는 곳을 지정
-        jupyter-book build ./
+        jb build .
     
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
