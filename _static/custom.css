@@ -1,0 +1,91 @@
+/* 커스텀 CSS - Jupyter Book 스타일 향상 */
+
+/* 사이드바 색상 */
+.bd-sidebar {
+    background-color: #f8f9fa;
+}
+
+/* 링크 색상 */
+a {
+    color: #2c3e50;
+}
+
+a:hover {
+    color: #3498db;
+    text-decoration: underline;
+}
+
+/* 헤더 스타일 */
+h1 {
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 0.5em;
+}
+
+h2 {
+    color: #34495e;
+    margin-top: 1.5em;
+}
+
+/* Admonition 박스 스타일 */
+.admonition.note {
+    border-left: 4px solid #3498db;
+    background-color: #eef6fc;
+}
+
+.admonition.tip {
+    border-left: 4px solid #27ae60;
+    background-color: #e8f8f5;
+}
+
+.admonition.warning {
+    border-left: 4px solid #f39c12;
+    background-color: #fef5e7;
+}
+
+/* 코드 블록 */
+code {
+    background-color: #f4f4f4;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+/* 네비게이션 바 커스텀 */
+.custom-navbar {
+    padding: 10px 0;
+    text-align: center;
+}
+
+.custom-navbar a {
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* 푸터 스타일 */
+footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin-top: 40px;
+    border-top: 1px solid #dee2e6;
+    text-align: center;
+}
+
+/* 목차 강조 */
+.bd-toc .nav > li.active > a {
+    border-left: 3px solid #3498db;
+    color: #2c3e50;
+    font-weight: bold;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.5em;
+    }
+    
+    .bd-sidebar {
+        font-size: 0.9em;
+    }
+}
