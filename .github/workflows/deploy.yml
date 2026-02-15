@@ -33,7 +33,7 @@ jobs:
     
     - name: Build book
       run: |
-        jupyter-book build $(pwd)
+        jupyter-book build $GITHUB_WORKSPACE
     
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
