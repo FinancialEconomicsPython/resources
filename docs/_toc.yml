@@ -1,7 +1,0 @@
-format: jb-book
-root: intro
-chapters:
-  - file: setup
-    title: 설치 및 사용법
-  - file: license
-    title: 라이선스 및 인용
