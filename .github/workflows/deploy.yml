@@ -33,7 +33,11 @@ jobs:
 
     - name: Build book
       run: |
-        jupyter-book build docs/
+        # 1. 빌드 도구 안정화 (버그 수정 버전 강제 설치)
+        pip install -U myst-cli jupyter-book
+        
+        # 2. 경로 끝에 /. 를 붙여 폴더임을 명확히 인지시킵니다.
+        jupyter-book build docs/.
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
