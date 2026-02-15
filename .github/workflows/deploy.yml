@@ -33,15 +33,17 @@ jobs:
 
     - name: Build book
       run: |
-        # 1. 빌드 도구 안정화 (버그 수정 버전 강제 설치)
+        # 1. 버그가 있는 myst-cli 버전을 피하기 위해 최신 버전으로 강제 업데이트합니다.
         pip install -U myst-cli jupyter-book
-        
-        # 2. 경로 끝에 /. 를 붙여 폴더임을 명확히 인지시킵니다.
+
+        # 2. 'docs'라는 이름의 폴더가 존재함을 확실히 하고, 그 폴더 내부를 빌드 대상으로 지정합니다.
+        # 경로 뒤에 /. 를 붙이는 것이 핵심입니다.
         jupyter-book build docs/.
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
+        # 빌드 결과물은 docs 폴더 하위의 _build 에 생성됩니다.
         path: ./docs/_build/html
     
     - name: Deploy to GitHub Pages
