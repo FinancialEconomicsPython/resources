@@ -1,82 +1,17 @@
 title: 금융경제학
-author: 박기영 (연세대 경제학부)
-copyright: "2026"
+author: 박기영
 
-# 노트북 실행 설정
 execute:
   execute_notebooks: off
 
-# 저장소 정보
 repository:
   url: https://github.com/FinancialEconomicsPython/book
   branch: main
 
-# HTML 설정
 html:
-  use_issues_button: true
   use_repository_button: true
-  use_edit_page_button: false
-  home_page_in_navbar: true
   baseurl: https://financialeconomicspython.github.io/book/
-  
-  # 추가 링크
-  extra_navbar: |
-    <div class="custom-navbar">
-      <a href="mailto:financialeconomicspython@gmail.com">📧 문의하기</a>
-    </div>
-  
-  extra_footer: |
-    <p>
-    © 2026 박기영 (연세대 경제학부) | CC BY 4.0 라이선스<br>
-    📧 <a href="mailto:financialeconomicspython@gmail.com">financialeconomicspython@gmail.com</a>
-    </p>
 
-# Sphinx 설정
 sphinx:
   config:
     language: ko
-    html_theme: sphinx_book_theme
-    html_theme_options:
-      repository_url: https://github.com/FinancialEconomicsPython/book
-      use_repository_button: true
-      use_issues_button: true
-      use_download_button: true
-      home_page_in_toc: true
-      show_toc_level: 2
-      
-      # 색상 테마 (파란색 계열)
-      primary_sidebar_color: "#2c3e50"
-      
-      # 로고 설정 (나중에 이미지 추가 시)
-      # logo: "logo.png"
-      
-      # 추가 기능
-      use_sidenotes: true
-      
-# 검색 설정 (옵션 3)
-sphinx:
-  extra_extensions:
-    - sphinx_search.extension
-
-# LaTeX 설정 (PDF 생성용)
-latex:
-  latex_documents:
-    targetname: book.tex
-
-# BibTeX 설정
-bibtex_bibfiles:
-  - references.bib
-
-# 고급 설정
-parse:
-  myst_enable_extensions:
-    - colon_fence
-    - deflist
-    - dollarmath
-    - html_admonition
-    - html_image
-    - linkify
-    - replacements
-    - smartquotes
-    - substitution
-    - tasklist
