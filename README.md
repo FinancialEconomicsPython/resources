@@ -10,7 +10,7 @@
 
 ---
 
-이 저장소(repository)는 **『금융경제학: 파이썬을 활용한 금융시장과 통화정책의 이해』** 에 수록된 그림과 실증 분석을 **독자가 직접 재현(replicate)하고 확장**할 수 있도록 만든 파이썬 코드 모음입니다.   
+이 저장소(repository)는 **『금융경제학: 파이썬을 활용한 금융시장과 통화정책의 이해』** 에 수록된 그림과 실증 분석을 **독자가 직접 재현(replicate)하고 확장**할 수 있도록 만든 파이썬 코드 모음입니다. 
 
 이 저장소의 목적은 단순히 책 속의 결과를 다시 확인하는데 있지 않습니다. 독자들이 **데이터의 표본기간을 바꾸고**, **변수를 추가·제거하고**, **분석 가정을 수정**하면서 금융경제학적 직관을 스스로 형성하는 데 도움을 주는 것을 목표로 합니다.
 
@@ -21,7 +21,7 @@
 - 개인 프로젝트
 - 실증 분석 연습 및 연구 아이디어 탐색
 
-모두  자유롭게 수정·확장하여 사용하기를 권장합니다.
+모두 자유롭게 수정·확장하여 사용하기를 권장합니다.
 
 📌 책이나 코드에 있는 오류, 개선사항, 의견 등은 financialeconomicspython@gmail.com으로 보내 주세요. 고맙습니다. 
 
@@ -48,8 +48,6 @@ FinancialEconomicsPython/book/
 │ 
 └── correction_typo/
     └── 본문의 수정사항 및 오타
-
-
 ```
 
 - **chapters/**  
@@ -65,11 +63,9 @@ FinancialEconomicsPython/book/
   데이터 불러오기, 그래프 그리기, 날짜 처리 등 여러 장에서 반복적으로 사용되는 코드를 모아 둔 폴더입니다.  
   독자는 이 폴더의 코드를 모두 이해하지 않아도 각 장의 노트북을 실행할 수 있습니다.
 
-
-
-
 ---
 ## 이 저장소를 사용하는 방법 (중요)
+
 파이썬을 처음 접하는 독자도 쉽게 사용할 수 있도록 **Google Colab 사용을 권장**합니다.
 
 대부분의 노트북은 다음과 같은 순서로 구성되어 있습니다.
@@ -77,9 +73,23 @@ FinancialEconomicsPython/book/
 2. 데이터 불러오기
 3. 그림 및 실증 분석 재현
 
-코드를 직접 실행하지 않고 코드와 결과물을 살펴 보는 목적이라면 아래 2단계의 🔹 방법 1만 참고하면 됩니다. 
+---
 
-## 1단계: 실행 환경 준비 (⚠️ 반드시 먼저 수행)
+## 0단계: 코드 살펴보기만 하는 경우
+
+코드를 직접 실행하지 않고 코드와 결과물을 살펴보는 목적이라면:
+
+### 🔹 GitHub에서 노트북 보기
+
+1. 이 GitHub 저장소에서 `chapters/` 폴더로 이동합니다.
+2. 보고 싶은 장의 `.ipynb` 파일을 클릭합니다.
+3. GitHub에서 노트북의 코드와 결과를 바로 볼 수 있습니다.
+
+💡 **실행 없이 결과만 확인하고 싶다면 여기까지만 하시면 됩니다!**
+
+---
+
+## 1단계: 실행 환경 준비 (⚠️ 코드를 직접 실행하려면 반드시 먼저 수행)
 
 > ⚠️ **IMPORTANT — `utils/` 폴더 관련 공통 안내**
 
@@ -123,9 +133,9 @@ chapters/, readings/ 등 상대경로가 모두 정상 작동하며
     plot_utils.py
     preamble_core.py
 3. 파일을 다운로드합니다.
-4. Colab 왼쪽의 📁 파일 탭에서 작업 폴더 아래 utils/ 폴더를 만들고 업로드합니다.
-   
+4. 작업 폴더에 utils/라는 이름의 폴더를 생성하고 파일을 업로드 합니다. 
 👉 최종적으로 Colab의 파일 구조가 아래와 같아야 합니다.
+
 ```
 /content/
 ├── your_notebook.ipynb
@@ -136,16 +146,16 @@ chapters/, readings/ 등 상대경로가 모두 정상 작동하며
 ```
 
 --- 
-## 2단계
+## 2단계: 노트북 실행하기
 
-### 🔹 방법 1: github의 `chapters/` 폴더에서 열기
+### 🔹 방법 1: GitHub에서 Colab으로 열기
 1. 이 GitHub 저장소에서 `chapters/` 폴더로 이동합니다.
 2. 실행하고 싶은 장의 `.ipynb` 파일을 클릭합니다.
 3. 해당 파일의 첫 부분에 나와 있는 설명대로 본인이 작업할 폴더 경로 BASE, 그리고 한국은행 ECOS API 인증키를 key_api_ECOS에 지정해 줍니다.
 4. 노트북의 셀(cell)을 **위에서부터 차례대로 실행**합니다.
 - 단축키: `Shift + Enter`
 
-### 🔹 방법 2: Google Colab에서 열기
+### 🔹 방법 2: Google Colab에서 직접 열기
 1. Google Colab에 접속합니다.  
    https://colab.research.google.com
 2. 상단 메뉴에서  
@@ -212,6 +222,3 @@ GitHub 저장소: https://github.com/FinancialEconomicsPython/book
 
 Data used in this repository (e.g., FRED, ECOS, ECB Data Portal) are subject to their own licenses.
 This license applies only to the original code and figures created by the author.
-
-
-
