@@ -10,7 +10,6 @@ repository:
 
 html:
   use_repository_button: true
-  baseurl: https://financialeconomicspython.github.io/book
 
 sphinx:
   config:
