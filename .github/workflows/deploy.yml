@@ -44,16 +44,3 @@ jobs:
       id: deployment
       uses: actions/deploy-pages@v4
       if: github.ref == 'refs/heads/main'
-```
-
-5. **Commit new file**
-
----
-
-## ✅ 결과
-
-이렇게 하면 자동으로:
-```
-.github/
-└── workflows/
-    └── deploy.yml
