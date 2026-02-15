@@ -30,20 +30,15 @@ jobs:
     - name: Install Jupyter Book
       run: |
         pip install jupyter-book
-    
+
     - name: Build book
       run: |
-        # 1. 빌드 도구 최신화 (버그 수정 버전 반영)
-        pip install -U myst-cli jupyter-book
+        jupyter-book build docs/
 
-        # 2. 경로 혼동을 방지하기 위해 '소스 폴더'와 '결과 폴더'를 명확히 지정합니다.
-        # 현재 위치($PWD)를 빌드하라고 명시적으로 명령합니다.
-        jupyter-book build ./ --all
-    
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
-        path: ./_build/html
+        path: ./docs/_build/html
     
     - name: Deploy to GitHub Pages
       id: deployment
