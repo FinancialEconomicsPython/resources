@@ -1,0 +1,17 @@
+title: 금융경제학
+author: 박기영
+
+execute:
+  execute_notebooks: off
+
+repository:
+  url: https://github.com/FinancialEconomicsPython/book
+  branch: main
+
+html:
+  use_repository_button: true
+  baseurl: https://financialeconomicspython.github.io/book/
+
+sphinx:
+  config:
+    language: ko
