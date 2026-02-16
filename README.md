@@ -177,25 +177,6 @@ chapters/, readings/ 등 상대경로가 모두 정상 작동하며
 ⚠️ 이 방법은 파이썬 환경 설정에 익숙한 독자에게만 권장됩니다.
 
 ---
-## License
-
-This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-
-You are free to use, modify, and redistribute the code and figures in this repository
-for research, teaching, and other purposes, provided that appropriate credit is given.
-
-
-### Citation (Required)
-
-If you use or adapt this code, please cite the following book:
-
-Park, Ki Young (2026),  
-*Financial Economics: Analyzing Financial Markets and Monetary Policy with Python*,  
-Sigma Press.  
-
-GitHub repository: https://github.com/FinancialEconomicsPython/book
-
-
 ## 라이선스 안내 (한글)
 
 본 저장소에 포함된 모든 코드는 **크리에이티브 커먼즈 저작자표시 4.0 국제 라이선스(CC BY 4.0)** 하에 공개됩니다.
@@ -212,9 +193,48 @@ GitHub repository: https://github.com/FinancialEconomicsPython/book
 『금융경제학: 파이썬을 활용한 금융시장과 통화정책의 이해』,  
 시그마프레스.
 
-GitHub 저장소: https://github.com/FinancialEconomicsPython/book
+GitHub 저장소: https://github.com/FinancialEconomicsPython/resources
+
+## License
+
+This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to use, modify, and redistribute the code and figures in this repository
+for research, teaching, and other purposes, provided that appropriate credit is given.
 
 
+### Citation (Required)
+
+If you use or adapt this code, please cite the following book:
+
+Park, Ki Young (2026),  
+*Financial Economics: Analyzing Financial Markets and Monetary Policy with Python*,  
+Sigma Press.  
+
+GitHub repository: https://github.com/FinancialEconomicsPython/resources
+
+
+---
+
+## ⚠️ Disclaimer (면책 조항)
+
+### 한글
+
+본 저장소에 포함된 모든 코드와 분석 결과는 **교육 및 연구 목적**으로만 제공됩니다.
+
+- **정확성 보장 불가**: 코드에는 오류나 버그가 있을 수 있으며, 분석 결과의 정확성을 보장하지 않습니다.
+- **책임 제한**: 본 코드를 사용하여 발생한 어떠한 손실, 손해, 또는 문제에 대해 저자는 법적 책임을 지지 않습니다.
+- **투자 조언 아님**: 본 저장소의 어떠한 내용도 투자 조언이나 금융 상담으로 해석되어서는 안 됩니다.
+- **사용자 책임**: 코드를 사용하기 전에 반드시 검증하시기 바라며, 모든 사용은 사용자 본인의 책임 하에 이루어집니다.
+
+### English
+
+All code and analysis results in this repository are provided **for educational and research purposes only**.
+
+- **No Warranty**: The code may contain errors or bugs, and the accuracy of the results is not guaranteed.
+- **Limitation of Liability**: The author is not legally responsible for any loss, damage, or issues arising from the use of this code.
+- **Not Financial Advice**: Nothing in this repository should be construed as investment advice or financial consulting.
+- **User Responsibility**: Please verify the code before use. All use is at your own risk.
 
 ---
 
