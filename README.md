@@ -126,6 +126,8 @@ from utils.nber_utils import *
 from utils.plot_utils import *
 from utils.preamble_core import *
 ```
+위 코드를 Google Colab에서 실행할 때 보안 경고가 뜰 수 있습니다. 'Run anyway'를 클릭하면 정상적으로 실행됩니다
+
 이 방법을 사용하면 utils/ 폴더가 자동으로 포함되고
 chapters/, readings/ 등 상대경로가 모두 정상 작동하며
 저장소 업데이트 내용도 쉽게 반영할 수 있습니다.
