@@ -81,7 +81,7 @@ FinancialEconomicsPython/book/
 
 ### 🔹 GitHub에서 노트북 보기
 
-1. 이 GitHub 저장소에서 `chapters/` 폴더로 이동합니다.
+1. 이 GitHub 저장소에서 [chapters/](https://github.com/FinancialEconomicsPython/resources/tree/main/chapters) 폴더로 이동합니다.
 2. 보고 싶은 장의 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) 을 클릭합니다. 
 3. GitHub에서 노트북의 코드와 결과를 바로 볼 수 있습니다.
 
