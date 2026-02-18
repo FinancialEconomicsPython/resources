@@ -82,7 +82,7 @@ FinancialEconomicsPython/book/
 ### 🔹 GitHub에서 노트북 보기
 
 1. 이 GitHub 저장소에서 `chapters/` 폴더로 이동합니다.
-2. 보고 싶은 장의 `.ipynb` 파일을 클릭합니다. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+2. 보고 싶은 장의 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) 을 클릭합니다. 
 3. GitHub에서 노트북의 코드와 결과를 바로 볼 수 있습니다.
 
 💡 **실행 없이 결과만 확인하고 싶다면 여기까지만 하시면 됩니다!**
