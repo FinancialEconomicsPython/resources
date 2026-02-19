@@ -223,7 +223,7 @@ GitHub repository: https://github.com/FinancialEconomicsPython/resources
 
 ---
 
-## ⚠️ Disclaimer (면책 조항)
+## ⚠️ Disclaimer
 
 
 본 저장소에 포함된 모든 코드와 분석 결과는 **교육 및 연구 목적**으로만 제공됩니다.
