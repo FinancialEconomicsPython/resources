@@ -1,3 +1,5 @@
+![inflation joyplot](https://raw.githubusercontent.com/FinancialEconomicsPython/resources/main/data/inf_joyplot.png)
+
 # 금융경제학: 파이썬을 활용한 금융시장과 통화정책의 이해
 **저자: 박기영 (연세대 경제학부)**
 
