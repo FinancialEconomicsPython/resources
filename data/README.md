@@ -1,3 +1,18 @@
+공유하는 데이터 파일입니다. 
+
+=== central_bank_reforms ===
+=== CPI_items_weights2020 ===
+=== fund_evaluation ===
+./FE05_multifactors.ipynb
+=== TaylorRuleData ===
+./FE15_CentralBank(2).ipynb
+=== Underlying-data-for-graphs-2022 ===
+./FE12_Regulation.ipynb
+=== 금융불안지수 ===
+./FE18_PostGFC(1).ipynb
+./FE18_PostGFC.ipynb
+
+
 # 데이터 파일 준비
 
 교재 실습에 필요한 데이터 파일을 아래 순서대로 준비해 주세요.
