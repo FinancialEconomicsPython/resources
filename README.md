@@ -40,6 +40,9 @@ FinancialEconomicsPython/book/
 │ 
 ├── appendix_online/
 │   └── 온라인 부록
+|
+├── data/
+│   └── 공유하는 데이터 파일. 5, 12, 15, 18장에서 사용
 │ 
 ├── utils/                ← chapters 폴더에 있는 Jupyter Notebook에서 공통으로 사용하는 함수
 │   ├── nber_utils.py
