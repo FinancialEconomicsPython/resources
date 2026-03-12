@@ -7,7 +7,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-<img src="https://raw.githubusercontent.com/FinancialEconomicsPython/resources/main/data/CPI_joyplot.png" width="600">
+<img src="https://raw.githubusercontent.com/FinancialEconomicsPython/resources/main/data/CPI_joyplot.png" width="700">
 
 ---
 이 저장소(repository)는 **『금융경제학: 파이썬을 활용한 금융시장과 통화정책의 이해』** 에 수록된 그림과 실증 분석을 **독자가 직접 재현(replicate)하고 확장**할 수 있도록 만든 파이썬 코드 모음입니다. 
