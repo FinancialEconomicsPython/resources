@@ -120,7 +120,8 @@ GitHub에서 노트북을 **Google Colab**으로 열 경우,
 가장 안정적인 방법이며,
 모든 노트북이 **저자 의도대로 동일하게 동작**합니다.
 
-#### 노트북의 첫 번째 코드 셀에서 아래 코드를 실행하세요.
+#### 노트북의 첫 번째 코드 셀에서 아래 코드를 실행하세요. 
+아무 노트북이나 새로 열어도 되고, 아니면 아래 2단계에서 처음 여는 노트북에서 실행해도 됩니다. 
 ```python
 !rm -rf /content/resources
 !git clone -q https://github.com/FinancialEconomicsPython/resources.git /content/resources
@@ -136,7 +137,7 @@ GitHub에서 노트북을 **Google Colab**으로 열 경우,
 
 저장소를 Google Drive에 올려두고 사용하는 방식입니다.
 
-1. 이 저장소를 ZIP으로 다운로드하거나 `git clone` 합니다.
+1. 이 저장소를 ZIP으로 다운로드합니다.
 2. Google Drive의 `내 드라이브 > Colab Notebooks` 아래에
    `book_FinancialEconomics` 폴더를 만들고 저장소 내용을 업로드합니다.
 3. 최종 구조가 아래와 같아야 합니다.
