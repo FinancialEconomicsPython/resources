@@ -27,7 +27,7 @@
 ## 저장소 구조
 
 ```
-FinancialEconomicsPython/book/
+FinancialEconomicsPython/resources/
 ├── README.md              ← 저장소 메인 설명 (교재 안내, 사용법)
 │ 
 ├── chapters/
@@ -117,47 +117,42 @@ GitHub에서 노트북을 **Google Colab**으로 열 경우,
 
 ### ✅ 방법 A (권장): 저장소 전체를 Colab 환경에 clone 하기
 
-가장 안정적인 방법이며,  
+가장 안정적인 방법이며,
 모든 노트북이 **저자 의도대로 동일하게 동작**합니다.
 
-#### 노트북 상단 셀에서 아래 코드 실행
+#### 노트북의 첫 번째 코드 셀에서 아래 코드를 실행하세요.
 ```python
-# FinancialEconomicsPython utils 설치 및 import
-!rm -rf resources
-!git clone https://github.com/FinancialEconomicsPython/resources.git
-
-import sys
-sys.path.insert(0, '/content/resources')
-
-from utils.nber_utils import *
-from utils.plot_utils import *
-from utils.preamble_core import *
+!rm -rf /content/resources
+!git clone -q https://github.com/FinancialEconomicsPython/resources.git /content/resources
 ```
-위 코드를 Google Colab에서 실행할 때 보안 경고가 뜰 수 있습니다. 'Run anyway'를 클릭하면 정상적으로 실행됩니다
+> 위 코드를 Google Colab에서 실행할 때 보안 경고가 뜰 수 있습니다. **'Run anyway'** 를 클릭하면 정상적으로 실행됩니다.
 
-이 방법을 사용하면 utils/ 폴더가 자동으로 포함되고
-chapters/, readings/ 등 상대경로가 모두 정상 작동하며
-저장소 업데이트 내용도 쉽게 반영할 수 있습니다.
+이 방법을 사용하면:
+- `utils/`, `data/` 폴더가 자동으로 포함되고
+- 이후 셀에서 필요한 경로와 함수가 **노트북 내부에서 자동으로 설정**되며
+- 저장소 업데이트 내용도 쉽게 반영할 수 있습니다.
 
-### ✅ 방법 B: utils 폴더의 파일을 다운로드 받기
+### ✅ 방법 B: Google Drive를 이용하는 방법
 
-1. 이 저장소의 utils/ 폴더로 이동합니다.
-2. 다음 파일들이 있는지 확인합니다.
-    nber_utils.py
-    plot_utils.py
-    preamble_core.py
-3. 파일을 다운로드합니다.
-4. 작업 폴더에 utils/라는 이름의 폴더를 생성하고 파일을 업로드 합니다. 
-👉 최종적으로 Colab의 파일 구조가 아래와 같아야 합니다.
+저장소를 Google Drive에 올려두고 사용하는 방식입니다.
+
+1. 이 저장소를 ZIP으로 다운로드하거나 `git clone` 합니다.
+2. Google Drive의 `내 드라이브 > Colab Notebooks` 아래에
+   `book_FinancialEconomics` 폴더를 만들고 저장소 내용을 업로드합니다.
+3. 최종 구조가 아래와 같아야 합니다.
 
 ```
-/content/
-├── your_notebook.ipynb
-└── utils/
-    ├── nber_utils.py
-    ├── plot_utils.py
-    └── preamble_core.py
+Google Drive/
+└── 내 드라이브/
+    └── Colab Notebooks/
+        └── book_FinancialEconomics/
+            ├── chapters/
+            ├── data/
+            ├── utils/
+            └── ...
 ```
+
+> ⚠️ 방법 B 사용 시, 노트북을 처음 실행하면 Google Drive 마운트 요청이 뜹니다. 허용해 주세요.
 
 --- 
 ## 2단계: 노트북 실행하기
@@ -165,7 +160,8 @@ chapters/, readings/ 등 상대경로가 모두 정상 작동하며
 ### 🔹 방법 1: GitHub에서 Colab으로 열기
 1. 이 GitHub 저장소에서 [chapters/](https://github.com/FinancialEconomicsPython/resources/tree/main/chapters) 폴더로 이동합니다.
 2. 실행하고 싶은 장의 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)을 클릭합니다.
-3. 해당 파일의 첫 부분에 나와 있는 설명대로 본인이 작업할 폴더 경로 BASE, 그리고 한국은행 ECOS API 인증키를 key_api_ECOS에 지정해 줍니다.
+3. 노트북 상단의 설정 셀에서 **한국은행 ECOS API 인증키를 `key_api_ECOS`에 입력**합니다.
+   `BASE` 경로는 실행 환경에 따라 **자동으로 감지**되므로 별도로 설정할 필요가 없습니다.
 4. 노트북의 셀(cell)을 **위에서부터 차례대로 실행**합니다.
 - 단축키: `Shift + Enter`
 
@@ -174,7 +170,7 @@ chapters/, readings/ 등 상대경로가 모두 정상 작동하며
    https://colab.research.google.com
 2. 상단 메뉴에서  
    **파일 → 노트북 열기 → GitHub** 를 선택합니다.
-3. 저장소 이름(`FinancialEconomicsPython/book`) 또는  
+3. 저장소 이름(`FinancialEconomicsPython/resources`) 또는  
    실행하고 싶은 노트북의 GitHub URL을 입력합니다.
 4. 목록에서 원하는 `.ipynb` 파일을 선택하여 엽니다.
 5. 노트북의 셀(cell)을 **위에서부터 차례대로 실행**합니다.
