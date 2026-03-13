@@ -22,4 +22,4 @@
 | 16 | 통화정책의 파급경로 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FinancialEconomicsPython/book/blob/main/chapters/FE16_TransmissionMechanism.ipynb) |
 | 17 | 2008년 글로벌 금융위기 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FinancialEconomicsPython/book/blob/main/chapters/FE17_GlobalFinancialCrisis.ipynb) |
 | 18 | 글로벌 금융위기 이후 통화정책 패러다임의 변화 (1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FinancialEconomicsPython/book/blob/main/chapters/FE18_PostGFC(1).ipynb) |
-| 19 | 글로벌 금융위기 이후 통화정책 패러다임의 변화 (2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FinancialEconomicsPython/book/blob/main/chapters/FE18_PostGFC(2).ipynb) |
+| 19 | 글로벌 금융위기 이후 통화정책 패러다임의 변화 (2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FinancialEconomicsPython/book/blob/main/chapters/FE19_PostGFC(2).ipynb) |
