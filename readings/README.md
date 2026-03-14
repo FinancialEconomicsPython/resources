@@ -23,9 +23,17 @@
 <details>
 <summary>읽기 자료 펼치기</summary>
 
+### 화폐의 성격
+
 - ["무너진 모래성, 스테이블 코인은 존재해야 하는가"](https://www.sisain.co.kr/news/articleView.html?idxno=48158) (이관휘의 자본시장 이야기, 시사IN 연재, 2022.8)
 - ["스테이블코인 법제화, 성급할 이유 없어"](https://www.hani.co.kr/arti/opinion/because/1204329.html) (한겨레신문 칼럼, 2025.6)  
 - ["‘탈중앙화 금융' 꿈꾸는 스테이블코인…화폐의 미래 아닌 과거다"](https://www.hani.co.kr/arti/economy/finance/1109273.html) (한겨레신문, 2024.5)
+
+### 금융시장의 역할
+
+- ["생산적 금융이 성공하려면"](https://www.hankyung.com/article/2026031145361) (다산칼럼, 한국경제신문, 2026.3)
+- ["끊어진 경제의 생명줄: 재무성의 정책 실패와 1997~98년 신용경색"](http://www.fntimes.com/html/view.php?ud=202602021007294823c1c16452b0_18) (김성민의 일본 위기 딥리뷰, 한국금융, 2026.2)
+
 
 </details>
 
@@ -57,8 +65,8 @@
 ### 공매도
 
 - ["'주가 폭락' 원흉? 주린이가 모르는 공매도 '오해와 진실'"](https://news.sbs.co.kr/news/endPage.do?news_id=N1006199044) (SBS 뉴스, 2021.2)  
-- ["‘중국판 스벅’ 무너뜨린 美기업 사냥꾼"](https://news.mt.co.kr/mtview.php?no=2020041000093628052) (머니투데이, 2020.4)  
-- ["'왜 하필 지금 재개했나?' 불만 내비치는 개미들... 반면 대만은 공매도 제한 조치"](https://biz.chosun.com/stock/stock_general/2025/04/08/7MGZO7TEMZASDBECR5EJVY5INQ/) (조선비즈, 2025.4)
+- ["‘중국판 스벅’ 무너뜨린 美기업 사냥꾼"](https://news.mt.co.kr/mtview.php?no=2020041000093628052) (머니투데이, 2020.4)
+- ["'왜 하필 지금 재개했나? 불만 내비치는 개미들...반면 대한은 공매도 제한 조치"](https://biz.chosun.com/stock/stock_general/2025/04/08/7MGZO7TEMZASDBECR5EJVY5INQ/) (조선비즈, 2025.4)
 
 </details>
 
