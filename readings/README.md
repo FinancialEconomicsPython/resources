@@ -58,7 +58,7 @@
 
 - ["'주가 폭락' 원흉? 주린이가 모르는 공매도 '오해와 진실'"](https://news.sbs.co.kr/news/endPage.do?news_id=N1006199044) (SBS 뉴스, 2021.2)  
 - ["‘중국판 스벅’ 무너뜨린 美기업 사냥꾼"](https://news.mt.co.kr/mtview.php?no=2020041000093628052) (머니투데이, 2020.4)  
-- [""왜 하필 지금 재개했나?" 불만 내비치는 개미들... 반면 대만은 공매도 제한 조치"](https://biz.chosun.com/stock/stock_general/2025/04/08/7MGZO7TEMZASDBECR5EJVY5INQ/) (조선비즈, 2025.4)
+- ["'왜 하필 지금 재개했나?' 불만 내비치는 개미들... 반면 대만은 공매도 제한 조치"](https://biz.chosun.com/stock/stock_general/2025/04/08/7MGZO7TEMZASDBECR5EJVY5INQ/) (조선비즈, 2025.4)
 
 </details>
 
