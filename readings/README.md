@@ -57,7 +57,7 @@
 - ["월가 휩쓴 팩터투자"](https://www.mk.co.kr/news/economy/view/2018/10/632466/) (매일경제, 2018.10)  
 - ["S&P500 PER 시계열"](https://en.wikipedia.org/wiki/File:SP500pe2.svg) (Wikipedia)
 
-### 효율적 시장, 초단타매매, 공매도 
+### 효율적 시장, 초단타매매
 
 - 강형 효율성에 대한 글: ["기업의 내부고발자에게 값비싼 보상을 아끼지 말자"](https://www.sisain.co.kr/news/articleView.html?idxno=45059) (이관휘의 자본시장 이야기, 시사IN 연재, 2021.7)
 - 약형 효율성에 대한 글: ["기술적 투자’, 과학인가 점성술인가"](https://www.sisain.co.kr/news/articleView.html?idxno=54115) (이관휘의 자본시장 이야기, 시사IN 연재, 2024.10)
