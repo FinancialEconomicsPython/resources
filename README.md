@@ -121,7 +121,7 @@ GitHub에서 노트북을 **Google Colab**으로 열 경우,
 모든 노트북이 **저자 의도대로 동일하게 동작**합니다.
 
 #### 노트북의 첫 번째 코드 셀에서 아래 코드를 실행하세요. 
-Google Colab에서 연 노트북의 셀에서 실행해도 되고, 아니면 아래 2단계에서 처음 여는 노트북에서 실행해도 됩니다. 
+Google Colab에서 새로 연 노트북의 셀에서 실행해도 되고, 아니면 아래 2단계에서 처음 여는 노트북에서 실행해도 됩니다. 
 ```python
 !rm -rf /content/resources
 !git clone -q https://github.com/FinancialEconomicsPython/resources.git /content/resources
@@ -162,7 +162,8 @@ Google Drive/
 1. 이 GitHub 저장소에서 [chapters/](https://github.com/FinancialEconomicsPython/resources/tree/main/chapters) 폴더로 이동합니다.
 2. 실행하고 싶은 장의 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)을 클릭합니다.
 3. 노트북 상단의 설정 셀에서 **한국은행 ECOS API 인증키를 `key_api_ECOS`에 입력**합니다.
-   `BASE` 경로는 실행 환경에 따라 **자동으로 감지**되므로 별도로 설정할 필요가 없습니다.
+   - `BASE` 경로는 실행 환경에 따라 **자동으로 감지**되므로 별도로 설정할 필요가 없습니다.
+   - 한국은행 ECOS API 인증키는 다음을 참고해서 받을 수 있습니다: https://ecos.bok.or.kr/api/#/ServiceUse/ServiceUseHow
 4. 노트북의 셀(cell)을 **위에서부터 차례대로 실행**합니다.
 - 단축키: `Shift + Enter`
 
