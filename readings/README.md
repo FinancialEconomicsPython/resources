@@ -26,16 +26,16 @@
 ### 화폐의 성격
 
 - ["무너진 모래성, 스테이블 코인은 존재해야 하는가"](https://www.sisain.co.kr/news/articleView.html?idxno=48158) (이관휘의 자본시장 이야기, 시사IN 연재, 2022.8)
-- ["스테이블코인 법제화, 성급할 이유 없어"](https://www.hani.co.kr/arti/opinion/because/1204329.html) (한겨레신문 칼럼, 2025.6)  
-- ["‘탈중앙화 금융' 꿈꾸는 스테이블코인…화폐의 미래 아닌 과거다"](https://www.hani.co.kr/arti/economy/finance/1109273.html) (전문가리포트 '화폐를 다시 생각하다', 한겨레신문, 2024.5)
+- ["스테이블코인 법제화, 성급할 이유 없어"](https://www.hani.co.kr/arti/opinion/because/1204329.html) (한겨레신문 칼럼,최동범 교수(서울대) 2025.6)  
+- ["‘탈중앙화 금융' 꿈꾸는 스테이블코인…화폐의 미래 아닌 과거다"](https://www.hani.co.kr/arti/economy/finance/1109273.html) (전문가리포트 '화폐를 다시 생각하다', 임일섭 예금보험공사 예금보험연구소장, 한겨레신문, 2024.5)
 
 ### 금융시장의 역할
 
-- ["생산적 금융이 성공하려면"](https://www.hankyung.com/article/2026031145361) (다산칼럼, 한국경제신문, 2026.3)
+- ["생산적 금융이 성공하려면"](https://www.hankyung.com/article/2026031145361) (다산칼럼, 신관호 교수(고려대), 한국경제신문, 2026.3)
 - ["끊어진 경제의 생명줄: 재무성의 정책 실패와 1997~98년 신용경색"](http://www.fntimes.com/html/view.php?ud=202602021007294823c1c16452b0_18) (김성민의 일본 위기 딥리뷰, 한국금융, 2026.2)
 - 전세제도, 갭투자, 레버리지 수단?
   - ["전세대출 '벌집'을 건드려야 할 시간"](https://www.hankyung.com/article/2025081140841) (취재수첩, 한국경제신문 2025.8)
-  - ["집값 안정과 주거 안정 사이"](https://www.hani.co.kr/arti/opinion/column/1249118.html) (한겨레신문 칼럼, 2026.3)
+  - ["집값 안정과 주거 안정 사이"](https://www.hani.co.kr/arti/opinion/column/1249118.html) (한겨레신문 칼럼, 최동범 교수(서울대), 2026.3)
 
 
 </details>
