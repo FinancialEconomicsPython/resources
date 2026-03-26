@@ -3,7 +3,7 @@
 - 책에 싣지 못 한 내용들을 추가로 소개합니다. 
 
 ---
-# 한센-자가나단 바운드(Hansen-Jagannathan bound)
+## 한센-자가나단 바운드(Hansen-Jagannathan bound)
 
 - FE_appendix_HJbound.pdf
 - FE_appendix_HJounbd.ipynb (데이터를 이용해 HJ 바운드를 그리는 파이썬 노트북)
@@ -16,7 +16,7 @@
 
 
 --- 
-# 엡스타인-진(Epstein-Zin) 효용함수
+## 엡스타인-진(Epstein-Zin) 효용함수
 
 - FE_appendix_EZpreference.pdf
 
@@ -26,7 +26,7 @@
 형태를 가지고 있나, 이를 통해 어떻게 주식 프리미엄 퍼즐을 설명할 수 있나 살펴봅니다. 
 
 --- 
-# 우리나라 인플레이션 분석
+## 우리나라 인플레이션 분석
 
 - inflation_joyplot.ipynb (joyplot을 그리는 파이썬 노트북)
 - inflation_various.ipynb (기조적 물가지표를 그리는 파이썬 노트북, coming soon)
