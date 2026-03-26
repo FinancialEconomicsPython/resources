@@ -12,6 +12,9 @@
 금융시장의 데이터를 설명하기 위해 어떤 조건을 가져야 하는지 설명하는 이론입니다. 이를 통해 (우리 책의 맥락에서는) 주식 프리미엄 퍼즐을 
 설명하기 위해서 어떤 조합의 $(E(m), \sigma(m))$가 필요한지 알 수 있고, 어떤 모형이 적절한지 비교 및 판단할 수 있습니다. 
 
+<img src="https://raw.githubusercontent.com/FinancialEconomicsPython/resources/main/figures/HJbound.png" width="700">
+
+
 --- 
 # 엡스타인-진(Epstein-Zin) 효용함수
 
