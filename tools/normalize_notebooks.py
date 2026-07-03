@@ -37,11 +37,14 @@ def normalize_obj(nb):
         for key in VOLATILE_CELL_META:
             meta.pop(key, None)
         # 실행 카운트는 재현성과 무관하므로 비움(출력 자체는 유지)
+        # 주의: nbformat 스키마상 execute_result 출력의 execution_count는
+        # 필수 속성이라 제거하면 GitHub 미리보기가 'Invalid Notebook'이 됨.
+        # None으로 두는 것까지만 허용된다.
         if cell.get("cell_type") == "code":
             cell["execution_count"] = None
             for out in cell.get("outputs", []):
-                if isinstance(out, dict):
-                    out.pop("execution_count", None)
+                if isinstance(out, dict) and out.get("output_type") == "execute_result":
+                    out["execution_count"] = None
     return nb
 
 
