@@ -184,9 +184,11 @@ def init(
     # --- 4) ECOS 키 ---
     key = _resolve_ecos_key(ecos_key)
     if key is None:
-        msg = ("⚠️ ECOS API 키가 설정되지 않았습니다. "
-               "Colab Secrets(🔑)에 'ECOS_API_KEY'를 저장하거나 "
-               "init(ecos_key='...')로 넘기세요.")
+        msg = ("⚠️ ECOS API 키가 설정되지 않았습니다.\n"
+               "   등록 방법: Colab 왼쪽 열쇠 아이콘(🔑) → [+ 새 보안 비밀 추가] → "
+               "이름 ECOS_API_KEY, 값에 본인 키 → '노트북 액세스' 켜기.\n"
+               "   또는 첫 셀의 ecos_key=\"...\"에 직접 입력하세요. "
+               "(키 신청: https://ecos.bok.or.kr/api/#/)")
         if require_ecos:
             print(msg)
             raise SystemExit
