@@ -39,6 +39,9 @@ FinancialEconomicsPython/resources/
 ├── appendix_online/
 │   └── 온라인 부록
 │ 
+├── talks/
+│   └── 강연·발표에서 시연한 자기완결형 노트북 (API 키 없이 바로 실행)
+│ 
 ├── data/
 │   └── 공유하는 데이터 파일. 
 │ 
@@ -59,6 +62,9 @@ FinancialEconomicsPython/resources/
 
 - **appendix_online/**  
   책에서 다루지 않은 내용을 수록하고 있습니다.
+
+- **talks/**  
+  강연·발표용 노트북입니다. 장(章) 노트북과 달리 다른 파일 없이 혼자 실행되며, 기간 등 설정을 입력란에서 바꿔 볼 수 있습니다.
 
 - **data/**  
   API를 이용할 수 없는 경우 사용하는 데이터 파일을 모아 둔 폴더입니다. 5, 12, 18장과 부록의 코드 일부에서 사용됩니다.    
